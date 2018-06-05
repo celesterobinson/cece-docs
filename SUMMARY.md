@@ -1,9 +1,10 @@
 # Table of contents
 
 * [Introduction](README.md)
-* Welcome
+* [Welcome](welcome.md)
 * [Introduction](introduction/README.md)
   * [Getting Started](introduction/getting-started.md)
-* [Tutorials](tutorials.md)
+* [Tutorials](tutorials/README.md)
+  * [How to Create a Data Element](tutorials/how-to-create-a-data-element.md)
 * [Stuff](stuff.md)
 
